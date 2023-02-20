@@ -28,9 +28,9 @@ Instructions on how to install and run the project:
 
 Instructions on how to use the project:
 
-1. Open your web browser and navigate to `http://localhost:3000/`
+1. Open your web browser and navigate to your localhost
 2. Start the timer and select a project
-3. Add more projects and switch between them using the dropdown menu
+3. Stop, pause the page or let time runs out to conclude it
 4. View the history of completed timers
 
 ## Features
@@ -38,7 +38,7 @@ Instructions on how to use the project:
 List of features that the project provides:
 
 - Set a timer for any amount of time
-- Create and switch between multiple projects
+- Create multiple projects
 - Save projects and timer history in local storage
 - View  alist of completed timers
 
