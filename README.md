@@ -57,5 +57,3 @@ List of technologies that were used to build the project:
 ## Disclaimer
 
 "This project was created as part of the Ignite course by Rocketseat" / [@Rocketseat](https://github.com/Rocketseat)
-
-By [Cristiano Alchaar da Silva](https://github.com/CristianoAlchaar)
